@@ -1,4 +1,3 @@
-// CountdownApp.java
 package com.example.countdown;
 
 import javafx.application.Application;
